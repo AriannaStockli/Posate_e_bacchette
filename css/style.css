@@ -129,7 +129,7 @@ aside a {
 }
 
 .img_03{
-  margin-top: 150px;
+  margin-top: 250px;
 }
 
 .img_04{
@@ -139,6 +139,10 @@ aside a {
 .img_05 {
 margin-top: 50px;
 }
+
+.img_06 {
+  margin-top: 50px;
+  }
 
 .image-container a:visited 
 .image-container a:link {
