@@ -10,7 +10,8 @@ Autore: Arianna Stöckli
 
 
 ## Introduzione e tema
-Il sito tratta del tema delle posate e bacchette
+Il progetto consisteva nel fare una ricerca testuale e iconografica di oggetti, segni e gesti legati all’uso delle mani. 
+Le posate sono strumenti fondamentali per l'alimentazione quotidiana nel mondo occidentale. Questo sito esplora la storia, l'evoluzione, il design e l'utilizzo delle posate e bacchette. Saranno esaminati gli aspetti culturali e curiosi legati alle posate, insieme ai materiali usati, alle forme e alle tendenze attuali nel design delle posate.
 
 
 ## Riferimenti progettuali
@@ -18,7 +19,10 @@ Dolor sit amet consectetur adipiscing elit duis tristique.
 
 
 ## Design dell’interfraccia e modalià di interazione
-Facilisis magna etiam tempor orci eu. Felis donec et odio pellentesque diam volutpat commodo. Dis parturient montes nascetur ridiculus mus mauris vitae.
+Il sito si sviluppa interamente su una pagina, attraverso la navbar posizionata in cima è possibile raggiungere facilmente tutti i capitoli della ricerca. Grazie al pulsante “indice” è possibile raggiungere la pagina principale con tutti i progetti.
+
+Il layout è suddiviso in due colonne principali. La colonna a sinistra che contiene il contenuto dettagliato della ricerca sulle posate e a destra le immagini correlate. 
+Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi più piccoli, la colonna si trasforma in un layout singolo, con il testo posizionato sopra e le immagini disposte sotto.
 
 
 ## Tecnologia usata
