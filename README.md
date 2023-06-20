@@ -29,27 +29,43 @@ Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi p
 Nunc consequat interdum varius sit amet mattis vulputate. Vehicula ipsum a arcu cursus vitae congue. Odio ut sem nulla pharetra. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Quisque egestas diam in arcu cursus. Eget nulla facilisi etiam dignissim diam. 
 
 
-```JavaScript
-const image = new Image();
-image.onload = () => {
-	gl.bindTexture(gl.TEXTURE_2D, texture);
-	gl.texImage2D(
-		gl.TEXTURE_2D,
-		level,
-		internalFormat,
-		srcFormat,
-		srcType,
-		image
-	);
-	if (isPowerOf2(image.width) && isPowerOf2(image.height)) {
-		gl.generateMipmap(gl.TEXTURE_2D);
-	} else {
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-	}
-};
-image.src = url;
+```HTML
+<!doctype html>
+<html>
+<head>
+    <title>Antologia a due mani</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <!-- Elementi di navigazione -->
+        </nav>
+    </header>
+    <main class="main-section">
+        <!-- Sezione di introduzione -->
+        <article class="colSx">
+            <section>
+                <h1 id="sezione1">Storia ed evoluzione</h1>
+                <!-- Contenuto sulla storia ed evoluzione delle posate -->
+            </section>
+            <section>
+                <h1 id="sezione2">Design</h1>
+                <!-- Contenuto sul design delle posate -->
+            </section>
+            <section>
+                <h1 id="sezione3">Curiosità</h1>
+                <!-- Contenuto sulle curiosità legate alle posate -->
+            </section>
+        </article>
+    </main>
+    <aside class="image-container">
+        <!-- Immagini -->
+    </aside>
+</body>
+</html>
 ```
 
 ## Target e contesto d’uso
