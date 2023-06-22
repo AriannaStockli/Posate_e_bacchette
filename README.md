@@ -24,6 +24,8 @@ Il sito si sviluppa interamente su una pagina, attraverso la navbar posizionata 
 Il layout è suddiviso in due colonne principali. La colonna a sinistra che contiene il contenuto dettagliato della ricerca sulle posate e a destra le immagini correlate. 
 Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi più piccoli, la colonna si trasforma in un layout singolo, con il testo posizionato sopra e le immagini disposte sotto.
 
+[<img src="documentazione/img_01.png" width="500" alt="immagine progetto">]()
+
 
 ## Tecnologia usata
 Ho utilizzato HTML e CSS come linguaggi di programmazione principali.
