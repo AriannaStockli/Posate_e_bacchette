@@ -15,16 +15,17 @@ Le posate sono strumenti fondamentali per l'alimentazione quotidiana nel mondo o
 
 
 ## Riferimenti progettuali
-Dolor sit amet consectetur adipiscing elit duis tristique. 
+Ho preso come riferimenti principali gli articoli citati nelle fonti presenti nel footer del sito. Per quanto riguarda il layout non ho riferimenti specifici.
 
 
 ## Design dell’interfraccia e modalià di interazione
-Il sito si sviluppa interamente su una pagina, attraverso la navbar posizionata in cima è possibile raggiungere facilmente tutti i capitoli della ricerca. Grazie al pulsante “indice” è possibile raggiungere la pagina principale con tutti i progetti.
+Il design del sito è piuttosto semplice e si sviluppa interamente su una pagina. Attraverso la navbar posizionata in cima è possibile raggiungere facilmente tutti i capitoli della ricerca. Grazie al pulsante “indice” è possibile raggiungere la pagina principale con tutti i progetti.
 
 Il layout è suddiviso in due colonne principali. La colonna a sinistra che contiene il contenuto dettagliato della ricerca sulle posate e a destra le immagini correlate. 
 Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi più piccoli, la colonna si trasforma in un layout singolo, con il testo posizionato sopra e le immagini disposte sotto.
 
 [<img src="documentazione/img_01.png" width="500" alt="immagine progetto">]()
+[<img src="documentazione/img_02.png" width="500" alt="immagine progetto">]()
 
 
 ## Tecnologia usata
@@ -72,4 +73,4 @@ Struttura HTML
 ```
 
 ## Target e contesto d’uso
-Sed enim ut sem viverra aliquet eget sit. Iaculis at erat pellentesque adipiscing commodo. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor.
+Il sito potrebbe essere visitato da persone interessate ad approfondire il tema delle posate e bacchette. Chiunque sia interessato al design, alla cucina o semplicemente sia curioso di scoprire di più su questi oggetti. Il sito può rappresentare una risorsa di studio per approfondire la storia, l'evoluzione e l'importanza culturale delle posate e delle bacchette.
