@@ -5,8 +5,8 @@ Docenti: A. Gysin, G. Profeta
 Elaborato 2: Antologia a due mani 
 
 # Posate e bacchette
-Autore: Arianna Stöckli
-[MediaPipe demo-ES6](https://ariannastockli.github.io/Posate_e_bacchette/)
+Autore: Arianna Stöckli<br>
+[Link progetto](https://ariannastockli.github.io/Posate_e_bacchette/)
 
 
 ## Introduzione e tema
@@ -26,9 +26,10 @@ Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi p
 
 
 ## Tecnologia usata
-Nunc consequat interdum varius sit amet mattis vulputate. Vehicula ipsum a arcu cursus vitae congue. Odio ut sem nulla pharetra. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Quisque egestas diam in arcu cursus. Eget nulla facilisi etiam dignissim diam. 
+Ho utilizzato HTML e CSS come linguaggi di programmazione principali.
 
 
+Struttura HTML
 ```HTML
 <!doctype html>
 <html>
