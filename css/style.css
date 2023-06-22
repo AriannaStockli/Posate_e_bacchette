@@ -67,9 +67,14 @@ header > nav > ul > li:last-child > a {
   border: 1px solid white;
 }
 
-header > nav > ul > li:last-child > a:hover {
+#index a:hover {
   background-color: #fff;
   color: #151515;
+}
+
+header > nav > ul > li:last-child > a:hover {
+  /* background-color: #fff; */ 
+  color: #fff;
 }
 
 header > nav > ul > li > a:link,
