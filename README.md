@@ -24,8 +24,8 @@ Il design del sito è piuttosto semplice e si sviluppa interamente su una pagina
 Il layout è suddiviso in due colonne principali. La colonna a sinistra che contiene il contenuto dettagliato della ricerca sulle posate e a destra le immagini correlate. 
 Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi più piccoli, la colonna si trasforma in un layout singolo, con il testo posizionato sopra e le immagini disposte sotto.
 
-[<img src="documentazione/img_01.png" width="500" alt="immagine progetto">]()
-[<img src="documentazione/img_02.png" width="500" alt="immagine progetto">]()
+[<img src="documentazione/img_01.png" width="500" alt="immagine 1 sito">]()
+[<img src="documentazione/img_02.png" width="500" alt="immagine 2 sito">]()
 <video src="https://github.com/AriannaStockli/Posate_e_bacchette/blob/main/screencast_low_quality.mp4" controls title="Title"></video>
 
 ## Tecnologia usata
