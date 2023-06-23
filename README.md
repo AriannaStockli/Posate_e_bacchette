@@ -26,7 +26,7 @@ Quando la visualizzazione viene ridimensionata su dispositivi mobili o schermi p
 
 [<img src="documentazione/img_01.png" width="500" alt="immagine progetto">]()
 [<img src="documentazione/img_02.png" width="500" alt="immagine progetto">]()
-
+<video src="https://github.com/AriannaStockli/Posate_e_bacchette/blob/main/screencast_low_quality.mp4" controls title="Title"></video>
 
 ## Tecnologia usata
 Ho utilizzato HTML e CSS come linguaggi di programmazione principali.
