@@ -18,7 +18,7 @@ Le posate sono strumenti fondamentali per l'alimentazione quotidiana nel mondo o
 Ho preso come riferimenti principali gli articoli citati nelle fonti presenti nel footer del sito. Per quanto riguarda il layout non ho riferimenti specifici.
 
 
-## Design dell’interfraccia e modalià di interazione
+## Design dell’interfraccia e modalità di interazione
 Il design del sito è piuttosto semplice e si sviluppa interamente su una pagina. Attraverso la navbar posizionata in cima è possibile raggiungere facilmente tutti i capitoli della ricerca. Grazie al pulsante “indice” è possibile raggiungere la pagina principale con tutti i progetti.
 
 Il layout è suddiviso in due colonne principali. La colonna a sinistra che contiene il contenuto dettagliato della ricerca sulle posate e a destra le immagini correlate. 
